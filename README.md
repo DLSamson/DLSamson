@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Danila%20Garmash&fontSize=70&fontAlignY=35&animation=twinkling&desc=Fullstack%20Developer&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Daniel%20Garmash&fontSize=30&fontAlignY=35&animation=twinkling&desc=Fullstack%20Developer&descAlignY=55)
 
 ### 👋 Привет! Я пишу код, который работает
 
