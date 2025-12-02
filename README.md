@@ -1,5 +1,7 @@
 # Hi, I'm Daniel 👋
 
+![](https://komarev.com/ghpvc/?username=DLSamson)
+
 Backend developer from Moscow. I work with PHP/Laravel, React/TypeScript, and everything in between.
 
 ## Why is my GitHub mostly empty?
@@ -42,5 +44,3 @@ Email: dlsamson@yandex.ru
 ---
 
 This GitHub is just my playground. If you want to see what I actually build — let's talk.
-
-![](https://komarev.com/ghpvc/?username=DLSamson)
