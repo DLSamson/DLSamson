@@ -42,3 +42,5 @@ Email: dlsamson@yandex.ru
 ---
 
 This GitHub is just my playground. If you want to see what I actually build — let's talk.
+
+![](https://komarev.com/ghpvc/?username=DLSamson)
