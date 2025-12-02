@@ -1,4 +1,4 @@
-# Hi, I'm Danila 👋
+# Hi, I'm Daniel 👋
 
 Backend developer from Moscow. I work with PHP/Laravel, React/TypeScript, and everything in between.
 
